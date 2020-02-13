@@ -147,7 +147,7 @@
 
 	
 	$(function(){
-		fullHeight();
+		// fullHeight();
 		contentWayPoint();
 		goToTop();
 		loaderPage();
